@@ -17,12 +17,6 @@ It was made by using Python, tkinter GUI interface, OpenCV library, Haarcascade 
 - Developer Page 
 - Help Desk
 - Exit System
-
-## Authors
-
-- [@kunal-2002](https://github.com/kunal-2002)
-- [@Luckydhingra](https://github.com/Luckydhingra)
-
-
+- 
 ## Support
-For support, email kkunal2103@outlook.com.
+For support, email Hharshitasharma04@gmail.com.
